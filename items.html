@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OnlyPans - το σωστό τηγάνι, είναι το πάν!</title>
+    <link rel = "icon" type="OnlyLogo.png" href = "Images/OnlyLogo.png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- HEADER -->
+    <header class="header">
+        <div class="header-container">
+            <div class="logo">
+                <a href="homepage.html" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+                    <img src="Images/OnlyLogo.png" alt="OnlyPans Logo">
+                    <span class="logo-text">OnlyPans</span>
+                </a>
+            </div>
+            <nav class="nav-menu">
+                <a href="homepage.html" class="nav-link">Home</a>
+                <a href="items.html" class="nav-link active">Products</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="main-content">
+        <!-- Search Section -->
+        <section class="search-section">
+            <div class="search-container">
+                <h1>Τα προϊόντα μας</h1>
+                <div class="search-bar-wrapper">
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="search-bar" 
+                        placeholder="Αναζήτηση τηγανιών...(π.χ. 'Izzy Cosmopolitan', 'Tefal Unlimited')">
+                    <span class="search-icon">🔍</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Products List Section -->
+        <section class="products-section">
+            <div id="products-list" class="products-container">
+                <!-- Products will be populated here by JavaScript/API -->
+                <div class="loading-message">
+                    <p>Loading products...</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- No Results Message (hidden by default) -->
+        <div id="no-results" class="no-results-message" style="display: none;">
+            <p>No products found. Try a different search term.</p>
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2026 OnlyPans. Created by Πρόιος Δημήτριος, Ρουκούδης Νικόλαος, Ιωαννίδου Ευτυχία, Παπαϊωάννου Χαράλαμπος</p>
+        </div>
+    </footer>
+
+    <script src="items.js"></script>
+</body>
+</html>

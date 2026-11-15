@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "69d50a1e8cf458fad50e095f"
+  },
+  "name": "Estia Cuisson",
+  "image": "https://b.scdn.gr/images/sku_main_images/040117/40117270/fixedratio_20240424175132_estia_cuisson_tigani_apo_alouminio_me_antikollitiki_epistrosi_30cm_01_11062.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 30cm.",
+  "likes": 0,
+  "price": 22.9
+},
+{
+  "_id": {
+    "$oid": "69d50d4c8cf458fad50e0963"
+  },
+  "name": "Estia Earth",
+  "image": "https://c.scdn.gr/images/sku_main_images/030053/30053265/fixedratio_20240424175132_estia_earth_soteza_apo_alouminio_me_antikollitiki_epistrosi_28cm_01_10232.jpeg",
+  "description": "Σωτέζα από Αλουμίνιο Με Καπάκι με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 29.9
+},
+{
+  "_id": {
+    "$oid": "69d50d8c8cf458fad50e0965"
+  },
+  "name": "Estia Iron Series",
+  "image": "https://b.scdn.gr/images/sku_main_images/016379/16379667/fixedratio_20260319153202_estia_iron_series_tigani_apo_mantemi_me_antikollitiki_epistrosi_30cm_01_4484.jpeg",
+  "description": "Τηγάνι από Μαντέμι με Αντικολλητική Επίστρωση 30cm.",
+  "likes": 0,
+  "price": 26.9
+},
+{
+  "_id": {
+    "$oid": "69d50e328cf458fad50e0968"
+  },
+  "name": "Tefal XL Force",
+  "image": "https://a.scdn.gr/images/sku_main_images/027855/27855543/fixedratio_20220510173317_tefal_xl_force_tigani_apo_alouminio_me_antikollitiki_epistrosi_28cm_c38506.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 25.85
+},
+{
+  "_id": {
+    "$oid": "69d62a0a8cf458fad50e0975"
+  },
+  "name": "Tefal Emotion",
+  "image": "https://c.scdn.gr/images/sku_main_images/027744/27744250/fixedratio_20220510173313_tefal_emotion_tigani_apo_anoxeidoto_atsali_me_antikollitiki_epistrosi_28cm_e30006.jpeg",
+  "description": "Τηγάνι από Ανοξείδωτο Ατσάλι με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 30.34
+},
+{
+  "_id": {
+    "$oid": "69d62a958cf458fad50e0977"
+  },
+  "name": "Fissler Adamant Comfort",
+  "image": "https://c.scdn.gr/images/sku_main_images/021646/21646489/fixedratio_20220510173255_fissler_adamant_comfort_tigani_apo_alouminio_me_antikollitiki_epistrosi_28cm_15910528_1.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 87.18
+},
+{
+  "_id": {
+    "$oid": "69d62c138cf458fad50e0979"
+  },
+  "name": "Izzy Natura Elea",
+  "image": "https://c.scdn.gr/images/sku_images/030144/30144134/fixedratio_20221108122216_0d94ebc2.jpeg",
+  "description": "Τηγάνι από Χυτό Αλουμίνιο με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 28
+},
+{
+  "_id": {
+    "$oid": "69d62c7c8cf458fad50e097b"
+  },
+  "name": "Gruppe Cookin",
+  "image": "https://c.scdn.gr/images/sku_main_images/021694/21694732/fixedratio_20220510173316_gruppe_cookin_tigani_me_kapaki_apo_alouminio_me_antikollitiki_epistrosi_28cm_kesj28.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο Με Καπάκι με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 44.88
+},
+{
+  "_id": {
+    "$oid": "69d62d1a8cf458fad50e097d"
+  },
+  "name": "Pal",
+  "image": "https://c.scdn.gr/images/sku_main_images/022308/22308802/fixedratio_20220510173252_pal_tigani_apo_alouminio_me_antikollitiki_epistrosi_red_28cm_050_000596.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση Red 28cm.",
+  "likes": 0,
+  "price": 22.6
+},
+{
+  "_id": {
+    "$oid": "69d62d738cf458fad50e097f"
+  },
+  "name": "Zero Coatings Lotus Nano 3-ply",
+  "image": "https://c.scdn.gr/images/sku_main_images/061361/61361867/fixedratio_20250626110643_zero_coatings_lotus_nano_3_ply_tigani_me_kapaki_apo_anoxeidoto_atsali_me_antikollitiki_epistrosi_28cm_st_30.jpeg",
+  "description": "Τηγάνι από Ανοξείδωτο Ατσάλι Με Καπάκι με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 149
+},
+{
+  "_id": {
+    "$oid": "69d62da28cf458fad50e0981"
+  },
+  "name": "Bruno Granit Premium",
+  "image": "https://c.scdn.gr/images/sku_main_images/040592/40592912/fixedratio_20250710120417_bruno_granit_premium_tigani_apo_alouminio_me_antikollitiki_epistrosi_28cm_brn_0114.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 15.9
+},
+{
+  "_id": {
+    "$oid": "69d62e238cf458fad50e0983"
+  },
+  "name": "Woll Diamond Lite",
+  "image": "https://a.scdn.gr/images/sku_main_images/009947/9947102/fixedratio_20220510173214_woll_diamond_lite_tigani_apo_chyto_alouminio_me_antikollitiki_epistrosi_28cm_528dps.jpeg",
+  "description": "Τηγάνι από Χυτό Αλουμίνιο με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 85.9
+},
+{
+  "_id": {
+    "$oid": "69d62e758cf458fad50e0985"
+  },
+  "name": "Izzy Gaia",
+  "image": "https://c.scdn.gr/images/sku_main_images/024790/24790318/fixedratio_20220510173242_izzy_gaia_tigani_apo_chyto_alouminio_me_antikollitiki_epistrosi_24cm_223281.jpeg",
+  "description": "Τηγάνι από Χυτό Αλουμίνιο με Αντικολλητική Επίστρωση 24cm.",
+  "likes": 0,
+  "price": 32.9
+},
+{
+  "_id": {
+    "$oid": "69d62ec98cf458fad50e0987"
+  },
+  "name": "Fest",
+  "image": "https://b.scdn.gr/images/sku_main_images/049174/49174340/fixedratio_20240110100937_fest_tigani_apo_alouminio_me_antikollitiki_epistrosi_24cm_3222224.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 24cm.",
+  "likes": 0,
+  "price": 17.9
+},
+{
+  "_id": {
+    "$oid": "69d62f118cf458fad50e0989"
+  },
+  "name": "Fissler Cenit",
+  "image": "https://a.scdn.gr/images/sku_images/123497/123497048/fixedratio_20260313094930_cb15d93f.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 32cm.",
+  "likes": 0,
+  "price": 150.21
+},
+{
+  "_id": {
+    "$oid": "69d62f558cf458fad50e098b"
+  },
+  "name": "Pyrex Optima+",
+  "image": "https://a.scdn.gr/images/sku_images/048583/48583763/fixedratio_20220510173207_592036ee.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 31
+},
+{
+  "_id": {
+    "$oid": "69d62f908cf458fad50e098d"
+  },
+  "name": "AMT Gastroguss",
+  "image": "https://c.scdn.gr/images/sku_main_images/018631/18631107/fixedratio_20220510173251_amt_gastroguss_tigani_apo_alouminio_me_antikollitiki_epistrosi_28cm_528.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 94.5
+},
+{
+  "_id": {
+    "$oid": "69d62fc48cf458fad50e098f"
+  },
+  "name": "Pintinox",
+  "image": "https://c.scdn.gr/images/sku_main_images/048402/48402126/fixedratio_20231127114730_pintinox_tigani_apo_alouminio_me_antikollitiki_epistrosi_28cm_19_20114.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 39.9
+},
+{
+  "_id": {
+    "$oid": "69d6300c8cf458fad50e0991"
+  },
+  "name": "Nava Atlas",
+  "image": "https://d.scdn.gr/images/sku_images/029422/29422265/fixedratio_20220510173310_b7669849.jpeg",
+  "description": "Τηγάνι από Μαντέμι με Αντικολλητική Επίστρωση 20cm.",
+  "likes": 0,
+  "price": 18.49
+},
+{
+  "_id": {
+    "$oid": "69d630f98cf458fad50e0993"
+  },
+  "name": "Keystone Electra",
+  "image": "https://b.scdn.gr/images/sku_main_images/016276/16276635/fixedratio_20220510173251_keystone_electra_tigani_apo_alouminio_me_antikollitiki_epistrosi_18cm_02_11_18.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 18cm.",
+  "likes": 0,
+  "price": 8
+},
+{
+  "_id": {
+    "$oid": "69f4581762a8a58fdf03ba69"
+  },
+  "name": "Estia Nordic",
+  "image": "https://c.scdn.gr/images/sku_main_images/040805/40805616/fixedratio_20240711150522_estia_nordic_tigani_apo_chyto_alouminio_me_antikollitiki_epistrosi_20cm_01_15855.jpeg",
+  "description": "Τηγάνι από Χυτό Αλουμίνιο με Αντικολλητική Επίστρωση 20cm.",
+  "likes": 0,
+  "price": 15.5
+},
+{
+  "_id": {
+    "$oid": "69f458b362a8a58fdf03ba6b"
+  },
+  "name": "Tefal Excellence",
+  "image": "https://c.scdn.gr/images/sku_main_images/065843/65843860/fixedratio_20260306104516_tefal_excellence_tigani_apo_alouminio_me_keramiki_epistrosi_28cm.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Κεραμική Επίστρωση 28cm.",
+  "likes": 0,
+  "price": 74.94
+},
+{
+  "_id": {
+    "$oid": "69f4594262a8a58fdf03ba6d"
+  },
+  "name": "Tefal Unlimited",
+  "image": "https://c.scdn.gr/images/sku_main_images/022638/22638564/fixedratio_20220510173323_tefal_unlimited_tigani_apo_alouminio_me_antikollitiki_epistrosi_24cm_g25504.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 24cm.",
+  "likes": 0,
+  "price": 42
+},
+{
+  "_id": {
+    "$oid": "69f45a0c62a8a58fdf03ba6f"
+  },
+  "name": "Izzy Τηγάνι",
+  "image": "https://c.scdn.gr/images/sku_main_images/046498/46498320/fixedratio_20230929124344_izzy_tigani_apo_alouminio_me_antikollitiki_epistrosi_20cm_224154.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 20cm.",
+  "likes": 0,
+  "price": 14
+},
+{
+  "_id": {
+    "$oid": "69f45a6d62a8a58fdf03ba71"
+  },
+  "name": "Edenberg Τηγάνι",
+  "image": "https://b.scdn.gr/images/sku_main_images/063244/63244744/fixedratio_20250929155731_edenberg_tigani_apo_anoxeidoto_atsali_me_antikollitiki_epistrosi_26cm_eb_6923.jpeg",
+  "description": "Τηγάνι από Ανοξείδωτο Ατσάλι με Αντικολλητική Επίστρωση 26cm.",
+  "likes": 0,
+  "price": 26.9
+},
+{
+  "_id": {
+    "$oid": "69f45af362a8a58fdf03ba73"
+  },
+  "name": "Fest Flow",
+  "image": "https://c.scdn.gr/images/sku_images/113238/113238876/fixedratio_20250623170253_0b817ed6.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 30cm.",
+  "likes": 0,
+  "price": 18.4
+},
+{
+  "_id": {
+    "$oid": "69f45b5a62a8a58fdf03ba75"
+  },
+  "name": "Pyrex Origin+",
+  "image": "https://b.scdn.gr/images/sku_main_images/026933/26933515/fixedratio_20220510172955_pyrex_origin_tigani_apo_alouminio_me_antikollitiki_epistrosi_26cm_s2701273.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 26cm.",
+  "likes": 0,
+  "price": 31.91
+},
+{
+  "_id": {
+    "$oid": "69f45bc962a8a58fdf03ba77"
+  },
+  "name": "Izzy Cosmopolitan",
+  "image": "https://b.scdn.gr/images/sku_main_images/033200/33200252/fixedratio_20220510173108_izzy_cosmopolitan_tigani_apo_anoxeidoto_atsali_me_antikollitiki_epistrosi_24cm_166235.jpeg",
+  "description": "Τηγάνι από Ανοξείδωτο Ατσάλι με Αντικολλητική Επίστρωση 24cm.",
+  "likes": 0,
+  "price": 24.9
+},
+{
+  "_id": {
+    "$oid": "69f45c2f62a8a58fdf03ba79"
+  },
+  "name": "Fest Magic",
+  "image": "https://a.scdn.gr/images/sku_main_images/004351/4351506/fixedratio_20220511112100_fest_magic_tigani_apo_alouminio_me_antikollitiki_epistrosi_22cm_0061122.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 22cm.",
+  "likes": 0,
+  "price": 12.6
+},
+{
+  "_id": {
+    "$oid": "69f45c9662a8a58fdf03ba7b"
+  },
+  "name": "Fissler Protect Alux Premium",
+  "image": "https://c.scdn.gr/images/sku_images/051688/51688405/fixedratio_20220510173206_81e8c449.jpeg",
+  "description": "Τηγάνι από Αλουμίνιο με Αντικολλητική Επίστρωση 20cm.",
+  "likes": 0,
+  "price": 63.9
+}]
